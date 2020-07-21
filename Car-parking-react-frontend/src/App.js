@@ -1,10 +1,10 @@
-import React, {Component, useState} from 'react';
+import React, {Component} from 'react';
 import './App.css';
 
 class App extends Component{
     render() {
         return(
-            <div className="App">
+            <div className="App container">
                 <div className="container">
                     <div className="py-5 text-center">
                         <img className="d-block mx-auto mb-4"
@@ -47,7 +47,7 @@ class App extends Component{
                                         <h6 className="my-0">Mukusalas BC zone X</h6>
                                         <small>15.07.2020.</small>
                                     </div>
-                                    <span id="tasks" className="text-success"></span>
+
                                 </li>
 
 
@@ -57,7 +57,7 @@ class App extends Component{
                             <div className="input-group">
                                 <form className="input-group" id="new-task">
                                     <input id="task" autoComplete="off" autoFocus placeholder="XX1111" type="text"
-                                            className="form-control"/>
+                                           className="form-control" />
                                         <div className="input-group-append">
                                             <button id="submit" type="submit" className="btn btn-secondary">Add</button>
                                         </div>
@@ -73,7 +73,7 @@ class App extends Component{
                                         <label htmlFor="firstName">From:</label>
                                         <input type="text" className="form-control" id="firstName"/>
                                             <div className="invalid-feedback">
-                                                Valid first name is required.
+
                                             </div>
                                     </div>
                                     <div className="col-md-6 mb-3">
@@ -98,7 +98,9 @@ class App extends Component{
                                 </div>
 
                                 <div className="mb-3">
-                                    <label htmlFor="email">Employee ID<span className="text-muted"></span></label>
+                                    <label htmlFor="email">Employee ID
+
+                                    </label>
                                     <input type="email" className="form-control" id="email" placeholder=""/>
                                         <div className="invalid-feedback">
                                             Please enter a valid email address for shipping updates.
@@ -162,9 +164,9 @@ class App extends Component{
                     <footer className="my-5 pt-5 text-muted text-center text-small">
                         <p className="mb-1">© 2020 AppZilla</p>
                         <ul className="list-inline">
-                            <li className="list-inline-item"><a href="#">Privacy</a></li>
-                            <li className="list-inline-item"><a href="#">Terms</a></li>
-                            <li className="list-inline-item"><a href="#">Support</a></li>
+                            <li className="list-inline-item"><a href="https://privacy.com">Privacy</a></li>
+                            <li className="list-inline-item"><a href="https://privacy.com">Terms</a></li>
+                            <li className="list-inline-item"><a href="https://privacy.com">Support</a></li>
                         </ul>
                     </footer>
                 </div>
