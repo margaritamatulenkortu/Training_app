@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b84d2252-7556-4a7d-9382-0ab537c92381" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Car-parking-react-frontend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Car-parking-react-frontend/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Car-parking-react-frontend/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Car-parking-react-frontend/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Car-parking-react-frontend/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Car-parking-react-frontend/.idea/my-app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Car-parking-react-frontend/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Car-parking-react-frontend/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Car-parking-react-frontend/build/asset-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Car-parking-react-frontend/build/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Car-parking-react-frontend/build/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Car-parking-react-frontend/build/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Car-parking-react-frontend/build/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Car-parking-react-frontend/build/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Car-parking-react-frontend/build/precache-manifest.0f5cdd4cae41c4e69381cecb25de6aba.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Car-parking-react-frontend/build/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Car-parking-react-frontend/build/service-worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Car-parking-react-frontend/build/static/css/main.56770920.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Car-parking-react-frontend/build/static/css/main.56770920.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Car-parking-react-frontend/build/static/js/2.fab44c12.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Car-parking-react-frontend/build/static/js/2.fab44c12.chunk.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Car-parking-react-frontend/build/static/js/2.fab44c12.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Car-parking-react-frontend/build/static/js/main.fcc55465.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Car-parking-react-frontend/build/static/js/main.fcc55465.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Car-parking-react-frontend/build/static/js/runtime-main.31687faf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Car-parking-react-frontend/build/static/js/runtime-main.31687faf.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Car-parking-react-frontend/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Car-parking-react-frontend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Car-parking-react-frontend/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Car-parking-react-frontend/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Car-parking-react-frontend/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Car-parking-react-frontend/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Car-parking-react-frontend/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Car-parking-react-frontend/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Car-parking-react-frontend/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Car-parking-react-frontend/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Car-parking-react-frontend/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Car-parking-react-frontend/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Car-parking-react-frontend/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Car-parking-react-frontend/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Car-parking-react-frontend/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CarParking" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1f86MFU7LoMH7lwDPVuKmfhnZaT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b84d2252-7556-4a7d-9382-0ab537c92381" name="Default Changelist" comment="" />
+      <created>1595587323350</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595587323350</updated>
+      <workItem from="1595587328540" duration="2203000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
